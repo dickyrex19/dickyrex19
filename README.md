@@ -2,9 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dickyrex19&label=Profile%20views&color=0e75b6&style=flat" alt="dickyrex19" /> </p>
 
-- 🌱 I’m currently learning **ReactJS, NextJS, Flutter**
-
-- 💬 Ask me about **Humour**
+- 🌱 I’m currently learning **ReactJS, NextJS, VueJS, ExpressJS**
 
 - 📫 How to reach me **dickyjuniansyahputra19@gmail.com**
 
